@@ -63,7 +63,7 @@ function Listing() {
           <img src={shareIcon} alt="share" />
       </div>
 
-      {shareLinkCopied && <p className="linkCopied">Link copied</p>}
+      {shareLinkCopied && <p className="linkCopied">Link Copied!</p>}
       
       <div className="listingDetails">
         <p className="listingName">
